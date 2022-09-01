@@ -6,4 +6,4 @@ To deploy the app simply git clone this repo, modify the server IP address or na
 
 To deploy the app simply run:  ansible-playbook playbook-deploy-app.yml -i inventory.txt
 
-For more details, please check the attached video.
+For more details, please check the attached video: https://drive.google.com/file/d/1TJAjsYnBau8J3wMfNI2o150WObCwkC6z/view?usp=sharing
