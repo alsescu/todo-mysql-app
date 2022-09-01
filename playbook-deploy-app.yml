@@ -12,7 +12,7 @@
 
     - name: deploy using docker-compose
       docker_compose:
-           project_name: todo-mysqlv2
+           project_name: todo-mysqlv3
            definition:
                 version: "2.0"
                 services:
